@@ -1,0 +1,6 @@
+{
+  "name": "Kirikal Coin Miner",
+  "description": "Simulador de minería de Kirikal Coin (KRK) con sistema de staking, tapping para hashrate, referidos, tabla de clasificación global y un diseño futurista de neón celeste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
